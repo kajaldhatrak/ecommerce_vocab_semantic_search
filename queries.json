@@ -1,0 +1,1910 @@
+[
+  {
+    "id": "query_001",
+    "query": "gym footwear for running",
+    "query_type": "synonym",
+    "relevant_product_ids": [
+      "prod_00355",
+      "prod_00306",
+      "prod_00348",
+      "prod_00307",
+      "prod_00341",
+      "prod_00354",
+      "prod_00344",
+      "prod_00342",
+      "prod_00359",
+      "prod_00323",
+      "prod_00352",
+      "prod_00340"
+    ]
+  },
+  {
+    "id": "query_002",
+    "query": "mobile phone with good camera",
+    "query_type": "synonym",
+    "relevant_product_ids": [
+      "prod_00059",
+      "prod_00051",
+      "prod_00019",
+      "prod_00005",
+      "prod_00029",
+      "prod_00024",
+      "prod_00008",
+      "prod_00026"
+    ]
+  },
+  {
+    "id": "query_003",
+    "query": "cordless audio buds for music",
+    "query_type": "synonym",
+    "relevant_product_ids": [
+      "prod_00141",
+      "prod_00148",
+      "prod_00167",
+      "prod_00160",
+      "prod_00176",
+      "prod_00135",
+      "prod_00158",
+      "prod_00121",
+      "prod_00123",
+      "prod_00152",
+      "prod_00130",
+      "prod_00136",
+      "prod_00125",
+      "prod_00143",
+      "prod_00155"
+    ]
+  },
+  {
+    "id": "query_004",
+    "query": "cold weather outerwear",
+    "query_type": "synonym",
+    "relevant_product_ids": [
+      "prod_00380",
+      "prod_00410",
+      "prod_00409",
+      "prod_00397",
+      "prod_00378",
+      "prod_00395",
+      "prod_00406",
+      "prod_00368",
+      "prod_00412",
+      "prod_00375",
+      "prod_00367",
+      "prod_00387",
+      "prod_00408"
+    ]
+  },
+  {
+    "id": "query_005",
+    "query": "hot beverage machine",
+    "query_type": "synonym",
+    "relevant_product_ids": [
+      "prod_00611",
+      "prod_00655",
+      "prod_00621",
+      "prod_00615",
+      "prod_00635",
+      "prod_00659",
+      "prod_00620",
+      "prod_00624",
+      "prod_00653",
+      "prod_00645",
+      "prod_00618",
+      "prod_00643",
+      "prod_00646",
+      "prod_00629",
+      "prod_00632"
+    ]
+  },
+  {
+    "id": "query_006",
+    "query": "floor cleaning device",
+    "query_type": "synonym",
+    "relevant_product_ids": [
+      "prod_00707",
+      "prod_00717",
+      "prod_00683",
+      "prod_00666",
+      "prod_00695",
+      "prod_00704",
+      "prod_00680",
+      "prod_00681"
+    ]
+  },
+  {
+    "id": "query_007",
+    "query": "exercise pad for stretching",
+    "query_type": "synonym",
+    "relevant_product_ids": [
+      "prod_00911",
+      "prod_00948",
+      "prod_00933",
+      "prod_00942",
+      "prod_00926",
+      "prod_00943",
+      "prod_00941"
+    ]
+  },
+  {
+    "id": "query_008",
+    "query": "face hydration cream",
+    "query_type": "synonym",
+    "relevant_product_ids": [
+      "prod_01240",
+      "prod_01221",
+      "prod_01251",
+      "prod_01239",
+      "prod_01220",
+      "prod_01227",
+      "prod_01213",
+      "prod_01252",
+      "prod_01201",
+      "prod_01259",
+      "prod_01222",
+      "prod_01228",
+      "prod_01232",
+      "prod_01258"
+    ]
+  },
+  {
+    "id": "query_009",
+    "query": "portable computing device",
+    "query_type": "synonym",
+    "relevant_product_ids": [
+      "prod_00067",
+      "prod_00077",
+      "prod_00087",
+      "prod_00118",
+      "prod_00106",
+      "prod_00082",
+      "prod_00095",
+      "prod_00086",
+      "prod_00089",
+      "prod_00097",
+      "prod_00102",
+      "prod_00293",
+      "prod_00273",
+      "prod_00288",
+      "prod_00252",
+      "prod_00295",
+      "prod_00253",
+      "prod_00264",
+      "prod_00266",
+      "prod_00250",
+      "prod_00260",
+      "prod_00251"
+    ]
+  },
+  {
+    "id": "query_010",
+    "query": "strength training equipment",
+    "query_type": "synonym",
+    "relevant_product_ids": [
+      "prod_01015",
+      "prod_00970",
+      "prod_00976",
+      "prod_00961",
+      "prod_01004",
+      "prod_00965",
+      "prod_01012",
+      "prod_01011",
+      "prod_00986",
+      "prod_01005",
+      "prod_01173",
+      "prod_01169",
+      "prod_01179",
+      "prod_01191",
+      "prod_01148",
+      "prod_01168",
+      "prod_01194",
+      "prod_01197",
+      "prod_01156",
+      "prod_01167",
+      "prod_01157"
+    ]
+  },
+  {
+    "id": "query_011",
+    "query": "I need something to listen to podcasts while jogging",
+    "query_type": "natural",
+    "relevant_product_ids": [
+      "prod_00145",
+      "prod_00167",
+      "prod_00121",
+      "prod_00163",
+      "prod_00179",
+      "prod_00164",
+      "prod_00175",
+      "prod_00152",
+      "prod_00149",
+      "prod_00151"
+    ]
+  },
+  {
+    "id": "query_012",
+    "query": "what can I wear to stay warm this winter",
+    "query_type": "natural",
+    "relevant_product_ids": [
+      "prod_00374",
+      "prod_00415",
+      "prod_00398",
+      "prod_00408",
+      "prod_00407"
+    ]
+  },
+  {
+    "id": "query_013",
+    "query": "looking for comfortable shoes for my daily workout",
+    "query_type": "natural",
+    "relevant_product_ids": [
+      "prod_00349",
+      "prod_00317",
+      "prod_00333",
+      "prod_00329",
+      "prod_00339",
+      "prod_00360",
+      "prod_00331",
+      "prod_00324",
+      "prod_00321",
+      "prod_00346",
+      "prod_00337",
+      "prod_00311",
+      "prod_00323",
+      "prod_00314",
+      "prod_00342"
+    ]
+  },
+  {
+    "id": "query_014",
+    "query": "need something to make my morning coffee quickly",
+    "query_type": "natural",
+    "relevant_product_ids": [
+      "prod_00618",
+      "prod_00608",
+      "prod_00628",
+      "prod_00658",
+      "prod_00624",
+      "prod_00639",
+      "prod_00651",
+      "prod_00641",
+      "prod_00629",
+      "prod_00617"
+    ]
+  },
+  {
+    "id": "query_015",
+    "query": "help me track my steps and heart rate",
+    "query_type": "natural",
+    "relevant_product_ids": [
+      "prod_00236",
+      "prod_00237",
+      "prod_00215",
+      "prod_00189",
+      "prod_00183",
+      "prod_00214",
+      "prod_00208",
+      "prod_00182",
+      "prod_00223",
+      "prod_00219"
+    ]
+  },
+  {
+    "id": "query_016",
+    "query": "I want to exercise at home without going to the gym",
+    "query_type": "natural",
+    "relevant_product_ids": [
+      "prod_00913",
+      "prod_00929",
+      "prod_00909",
+      "prod_00946",
+      "prod_00924",
+      "prod_00903",
+      "prod_00904",
+      "prod_00917",
+      "prod_00910",
+      "prod_00914",
+      "prod_00962",
+      "prod_00973",
+      "prod_01008",
+      "prod_00990",
+      "prod_00999",
+      "prod_01017",
+      "prod_01003",
+      "prod_00996",
+      "prod_00966",
+      "prod_00989",
+      "prod_01165",
+      "prod_01168",
+      "prod_01153",
+      "prod_01197",
+      "prod_01141",
+      "prod_01198",
+      "prod_01189",
+      "prod_01191",
+      "prod_01142",
+      "prod_01179",
+      "prod_01170",
+      "prod_01187",
+      "prod_01161",
+      "prod_01074",
+      "prod_01033",
+      "prod_01063",
+      "prod_01060",
+      "prod_01053",
+      "prod_01052",
+      "prod_01046",
+      "prod_01032"
+    ]
+  },
+  {
+    "id": "query_017",
+    "query": "something to protect my skin from the sun",
+    "query_type": "natural",
+    "relevant_product_ids": [
+      "prod_01445",
+      "prod_01476",
+      "prod_01460",
+      "prod_01482",
+      "prod_01467",
+      "prod_01465",
+      "prod_01468",
+      "prod_01466",
+      "prod_01473",
+      "prod_01451",
+      "prod_01498"
+    ]
+  },
+  {
+    "id": "query_018",
+    "query": "need a better night's sleep",
+    "query_type": "natural",
+    "relevant_product_ids": [
+      "prod_00749",
+      "prod_00780",
+      "prod_00758",
+      "prod_00762",
+      "prod_00736",
+      "prod_00735",
+      "prod_00741",
+      "prod_00740",
+      "prod_00723",
+      "prod_00763",
+      "prod_00727"
+    ]
+  },
+  {
+    "id": "query_019",
+    "query": "what should I get for smoother, healthier hair",
+    "query_type": "natural",
+    "relevant_product_ids": [
+      "prod_01266",
+      "prod_01290",
+      "prod_01319",
+      "prod_01286",
+      "prod_01261",
+      "prod_01297",
+      "prod_01304",
+      "prod_01308"
+    ]
+  },
+  {
+    "id": "query_020",
+    "query": "I want to start doing yoga at home",
+    "query_type": "natural",
+    "relevant_product_ids": [
+      "prod_00953",
+      "prod_00935",
+      "prod_00923",
+      "prod_00929",
+      "prod_00920"
+    ]
+  },
+  {
+    "id": "query_021",
+    "query": "laptop 16gb ram",
+    "query_type": "keyword",
+    "relevant_product_ids": [
+      "prod_00064",
+      "prod_00088",
+      "prod_00118",
+      "prod_00073",
+      "prod_00106",
+      "prod_00066",
+      "prod_00116",
+      "prod_00095",
+      "prod_00075"
+    ]
+  },
+  {
+    "id": "query_022",
+    "query": "black sneakers",
+    "query_type": "keyword",
+    "relevant_product_ids": [
+      "prod_00344",
+      "prod_00332",
+      "prod_00312",
+      "prod_00301",
+      "prod_00321",
+      "prod_00358",
+      "prod_00322",
+      "prod_00347",
+      "prod_00326",
+      "prod_00348",
+      "prod_00342",
+      "prod_00320",
+      "prod_00338"
+    ]
+  },
+  {
+    "id": "query_023",
+    "query": "air purifier hepa",
+    "query_type": "keyword",
+    "relevant_product_ids": [
+      "prod_00812",
+      "prod_00821",
+      "prod_00815",
+      "prod_00830",
+      "prod_00782",
+      "prod_00823",
+      "prod_00798",
+      "prod_00813",
+      "prod_00785",
+      "prod_00805",
+      "prod_00800",
+      "prod_00794",
+      "prod_00840"
+    ]
+  },
+  {
+    "id": "query_024",
+    "query": "matte lipstick red",
+    "query_type": "keyword",
+    "relevant_product_ids": [
+      "prod_01356",
+      "prod_01328",
+      "prod_01344",
+      "prod_01333",
+      "prod_01347",
+      "prod_01375"
+    ]
+  },
+  {
+    "id": "query_025",
+    "query": "adjustable dumbbells",
+    "query_type": "keyword",
+    "relevant_product_ids": [
+      "prod_00994",
+      "prod_00990",
+      "prod_00984",
+      "prod_01008",
+      "prod_01016",
+      "prod_00986"
+    ]
+  },
+  {
+    "id": "query_026",
+    "query": "wireless noise cancelling headphones for commuting",
+    "query_type": "multi_concept",
+    "relevant_product_ids": [
+      "prod_00161",
+      "prod_00172",
+      "prod_00165",
+      "prod_00179",
+      "prod_00147",
+      "prod_00154",
+      "prod_00150",
+      "prod_00125",
+      "prod_00173",
+      "prod_00144",
+      "prod_00124",
+      "prod_00180",
+      "prod_00177",
+      "prod_00140"
+    ]
+  },
+  {
+    "id": "query_027",
+    "query": "professional blender for smoothies and soups",
+    "query_type": "multi_concept",
+    "relevant_product_ids": [
+      "prod_00898",
+      "prod_00845",
+      "prod_00867",
+      "prod_00857",
+      "prod_00864",
+      "prod_00852",
+      "prod_00882",
+      "prod_00871",
+      "prod_00866"
+    ]
+  },
+  {
+    "id": "query_028",
+    "query": "elegant dress for evening party",
+    "query_type": "multi_concept",
+    "relevant_product_ids": [
+      "prod_00572",
+      "prod_00542",
+      "prod_00581",
+      "prod_00592",
+      "prod_00571",
+      "prod_00566",
+      "prod_00555",
+      "prod_00575",
+      "prod_00593",
+      "prod_00541",
+      "prod_00580",
+      "prod_00568",
+      "prod_00553",
+      "prod_00551"
+    ]
+  },
+  {
+    "id": "query_029",
+    "query": "running machine with incline for cardio training",
+    "query_type": "multi_concept",
+    "relevant_product_ids": [
+      "prod_01025",
+      "prod_01042",
+      "prod_01070",
+      "prod_01076",
+      "prod_01038",
+      "prod_01059",
+      "prod_01075",
+      "prod_01063",
+      "prod_01031",
+      "prod_01030",
+      "prod_01039",
+      "prod_01057",
+      "prod_01058",
+      "prod_01026",
+      "prod_01046"
+    ]
+  },
+  {
+    "id": "query_030",
+    "query": "luxury fragrance woody notes gift",
+    "query_type": "multi_concept",
+    "relevant_product_ids": [
+      "prod_01416",
+      "prod_01413",
+      "prod_01424",
+      "prod_01411",
+      "prod_01418",
+      "prod_01384",
+      "prod_01404"
+    ]
+  },
+  {
+    "id": "query_031",
+    "query": "athletic shoes for training",
+    "query_type": "synonym",
+    "relevant_product_ids": [
+      "prod_00329",
+      "prod_00340",
+      "prod_00323",
+      "prod_00317",
+      "prod_00306",
+      "prod_00348",
+      "prod_00324",
+      "prod_00311"
+    ]
+  },
+  {
+    "id": "query_032",
+    "query": "notebook computer for work",
+    "query_type": "synonym",
+    "relevant_product_ids": [
+      "prod_00063",
+      "prod_00120",
+      "prod_00099",
+      "prod_00102",
+      "prod_00091",
+      "prod_00075",
+      "prod_00111",
+      "prod_00080",
+      "prod_00106",
+      "prod_00086",
+      "prod_00066",
+      "prod_00097",
+      "prod_00109"
+    ]
+  },
+  {
+    "id": "query_033",
+    "query": "skin hydrating product",
+    "query_type": "synonym",
+    "relevant_product_ids": [
+      "prod_01216",
+      "prod_01220",
+      "prod_01205",
+      "prod_01230",
+      "prod_01218",
+      "prod_01225",
+      "prod_01256",
+      "prod_01219",
+      "prod_01226",
+      "prod_01259",
+      "prod_01258",
+      "prod_01253",
+      "prod_01206",
+      "prod_01242",
+      "prod_01210"
+    ]
+  },
+  {
+    "id": "query_034",
+    "query": "home exercise equipment",
+    "query_type": "synonym",
+    "relevant_product_ids": [
+      "prod_00975",
+      "prod_01005",
+      "prod_00969",
+      "prod_00965",
+      "prod_00978",
+      "prod_01008",
+      "prod_00962",
+      "prod_01013",
+      "prod_00999",
+      "prod_00961",
+      "prod_01188",
+      "prod_01199",
+      "prod_01181",
+      "prod_01186",
+      "prod_01164",
+      "prod_01175",
+      "prod_01156",
+      "prod_00937",
+      "prod_00907",
+      "prod_00925",
+      "prod_00906",
+      "prod_00953",
+      "prod_00933",
+      "prod_00929"
+    ]
+  },
+  {
+    "id": "query_035",
+    "query": "dust removal machine",
+    "query_type": "synonym",
+    "relevant_product_ids": [
+      "prod_00685",
+      "prod_00669",
+      "prod_00696",
+      "prod_00692",
+      "prod_00676",
+      "prod_00711",
+      "prod_00663",
+      "prod_00704"
+    ]
+  },
+  {
+    "id": "query_036",
+    "query": "sleep comfort set",
+    "query_type": "synonym",
+    "relevant_product_ids": [
+      "prod_00735",
+      "prod_00753",
+      "prod_00770",
+      "prod_00775",
+      "prod_00730",
+      "prod_00761",
+      "prod_00728",
+      "prod_00766",
+      "prod_00722",
+      "prod_00780",
+      "prod_00746",
+      "prod_00776"
+    ]
+  },
+  {
+    "id": "query_037",
+    "query": "wrist worn fitness device",
+    "query_type": "synonym",
+    "relevant_product_ids": [
+      "prod_00216",
+      "prod_00236",
+      "prod_00221",
+      "prod_00185",
+      "prod_00205",
+      "prod_00220",
+      "prod_00199",
+      "prod_00213",
+      "prod_00225"
+    ]
+  },
+  {
+    "id": "query_038",
+    "query": "touch screen portable device",
+    "query_type": "synonym",
+    "relevant_product_ids": [
+      "prod_00241",
+      "prod_00299",
+      "prod_00257",
+      "prod_00277",
+      "prod_00296",
+      "prod_00252",
+      "prod_00265",
+      "prod_00271",
+      "prod_00278",
+      "prod_00287",
+      "prod_00281"
+    ]
+  },
+  {
+    "id": "query_039",
+    "query": "lip color cosmetic",
+    "query_type": "synonym",
+    "relevant_product_ids": [
+      "prod_01325",
+      "prod_01376",
+      "prod_01353",
+      "prod_01331",
+      "prod_01340",
+      "prod_01326",
+      "prod_01347",
+      "prod_01364"
+    ]
+  },
+  {
+    "id": "query_040",
+    "query": "aromatic spray fragrance",
+    "query_type": "synonym",
+    "relevant_product_ids": [
+      "prod_01397",
+      "prod_01401",
+      "prod_01436",
+      "prod_01420",
+      "prod_01423",
+      "prod_01417",
+      "prod_01410",
+      "prod_01402",
+      "prod_01432",
+      "prod_01418",
+      "prod_01439",
+      "prod_01396",
+      "prod_01388",
+      "prod_01393"
+    ]
+  },
+  {
+    "id": "query_041",
+    "query": "best gift for a tech lover",
+    "query_type": "natural",
+    "relevant_product_ids": [
+      "prod_00002",
+      "prod_00034",
+      "prod_00018",
+      "prod_00017",
+      "prod_00038",
+      "prod_00010",
+      "prod_00016",
+      "prod_00287",
+      "prod_00289",
+      "prod_00286",
+      "prod_00298",
+      "prod_00280",
+      "prod_00273",
+      "prod_00271",
+      "prod_00168",
+      "prod_00148",
+      "prod_00164",
+      "prod_00175",
+      "prod_00152",
+      "prod_00229",
+      "prod_00234",
+      "prod_00199",
+      "prod_00202",
+      "prod_00217",
+      "prod_00184",
+      "prod_00233",
+      "prod_00183",
+      "prod_00197",
+      "prod_00209",
+      "prod_00215",
+      "prod_00227",
+      "prod_00226",
+      "prod_00207",
+      "prod_00237"
+    ]
+  },
+  {
+    "id": "query_042",
+    "query": "preparing for marathon training",
+    "query_type": "natural",
+    "relevant_product_ids": [
+      "prod_01022",
+      "prod_01045",
+      "prod_01042",
+      "prod_01061",
+      "prod_01030",
+      "prod_01073",
+      "prod_01069",
+      "prod_01072",
+      "prod_01067"
+    ]
+  },
+  {
+    "id": "query_043",
+    "query": "setting up my home office",
+    "query_type": "natural",
+    "relevant_product_ids": [
+      "prod_00076",
+      "prod_00105",
+      "prod_00101",
+      "prod_00090",
+      "prod_00065",
+      "prod_00066",
+      "prod_00091",
+      "prod_00107",
+      "prod_00063",
+      "prod_00103",
+      "prod_00071",
+      "prod_00074",
+      "prod_00086",
+      "prod_00102",
+      "prod_00096",
+      "prod_00279",
+      "prod_00264",
+      "prod_00263",
+      "prod_00298",
+      "prod_00275",
+      "prod_00251",
+      "prod_00266",
+      "prod_00285",
+      "prod_00252",
+      "prod_00241",
+      "prod_00259",
+      "prod_00295",
+      "prod_00272",
+      "prod_00290",
+      "prod_00257"
+    ]
+  },
+  {
+    "id": "query_044",
+    "query": "getting ready for date night",
+    "query_type": "natural",
+    "relevant_product_ids": [
+      "prod_01436",
+      "prod_01430",
+      "prod_01398",
+      "prod_01418",
+      "prod_01413",
+      "prod_01412",
+      "prod_01427",
+      "prod_01417",
+      "prod_01335",
+      "prod_01379",
+      "prod_01345",
+      "prod_01328",
+      "prod_01344",
+      "prod_01340",
+      "prod_01374",
+      "prod_01353",
+      "prod_01363",
+      "prod_01336",
+      "prod_01371",
+      "prod_01325",
+      "prod_01352"
+    ]
+  },
+  {
+    "id": "query_045",
+    "query": "spring cleaning essentials",
+    "query_type": "natural",
+    "relevant_product_ids": [
+      "prod_00686",
+      "prod_00715",
+      "prod_00708",
+      "prod_00673",
+      "prod_00718",
+      "prod_00685",
+      "prod_00681",
+      "prod_00690",
+      "prod_00703",
+      "prod_00679",
+      "prod_00663",
+      "prod_00682",
+      "prod_00716",
+      "prod_00670",
+      "prod_00671"
+    ]
+  },
+  {
+    "id": "query_046",
+    "query": "beach vacation must-haves",
+    "query_type": "natural",
+    "relevant_product_ids": [
+      "prod_01499",
+      "prod_01474",
+      "prod_01458",
+      "prod_01480",
+      "prod_01447",
+      "prod_01460",
+      "prod_01441",
+      "prod_01485",
+      "prod_01444",
+      "prod_01486",
+      "prod_01500",
+      "prod_01488",
+      "prod_01496",
+      "prod_01494"
+    ]
+  },
+  {
+    "id": "query_047",
+    "query": "morning routine products",
+    "query_type": "natural",
+    "relevant_product_ids": [
+      "prod_01210",
+      "prod_01211",
+      "prod_01213",
+      "prod_01204",
+      "prod_01222",
+      "prod_01207",
+      "prod_01231",
+      "prod_01266",
+      "prod_01319",
+      "prod_01273",
+      "prod_01281",
+      "prod_01311",
+      "prod_01302",
+      "prod_01288",
+      "prod_01276",
+      "prod_01297",
+      "prod_01305",
+      "prod_01291"
+    ]
+  },
+  {
+    "id": "query_048",
+    "query": "gifts for fitness enthusiast",
+    "query_type": "natural",
+    "relevant_product_ids": [
+      "prod_00928",
+      "prod_00929",
+      "prod_00950",
+      "prod_00926",
+      "prod_00927",
+      "prod_00947",
+      "prod_00905",
+      "prod_00940",
+      "prod_00902",
+      "prod_00992",
+      "prod_01020",
+      "prod_00999",
+      "prod_00983",
+      "prod_00975",
+      "prod_01003",
+      "prod_00972",
+      "prod_01156",
+      "prod_01181",
+      "prod_01147",
+      "prod_01163",
+      "prod_01167",
+      "prod_01145",
+      "prod_01200",
+      "prod_01180",
+      "prod_01144",
+      "prod_01168",
+      "prod_01150"
+    ]
+  },
+  {
+    "id": "query_049",
+    "query": "upgrading my kitchen",
+    "query_type": "natural",
+    "relevant_product_ids": [
+      "prod_00629",
+      "prod_00620",
+      "prod_00627",
+      "prod_00604",
+      "prod_00631",
+      "prod_00608",
+      "prod_00611",
+      "prod_00660",
+      "prod_00652",
+      "prod_00862",
+      "prod_00846",
+      "prod_00867",
+      "prod_00864",
+      "prod_00888",
+      "prod_00856",
+      "prod_00845",
+      "prod_00896",
+      "prod_00850",
+      "prod_00872",
+      "prod_00879"
+    ]
+  },
+  {
+    "id": "query_050",
+    "query": "starting a skincare routine",
+    "query_type": "natural",
+    "relevant_product_ids": [
+      "prod_01223",
+      "prod_01225",
+      "prod_01244",
+      "prod_01217",
+      "prod_01231",
+      "prod_01258",
+      "prod_01243",
+      "prod_01204",
+      "prod_01249",
+      "prod_01202",
+      "prod_01451",
+      "prod_01465",
+      "prod_01480",
+      "prod_01456",
+      "prod_01454",
+      "prod_01499",
+      "prod_01496"
+    ]
+  },
+  {
+    "id": "query_051",
+    "query": "samsung smartphone 256gb",
+    "query_type": "keyword",
+    "relevant_product_ids": [
+      "prod_00034",
+      "prod_00002",
+      "prod_00017",
+      "prod_00009",
+      "prod_00025",
+      "prod_00026",
+      "prod_00038"
+    ]
+  },
+  {
+    "id": "query_052",
+    "query": "nike running shoes",
+    "query_type": "keyword",
+    "relevant_product_ids": [
+      "prod_00333",
+      "prod_00351",
+      "prod_00303",
+      "prod_00356",
+      "prod_00340",
+      "prod_00315",
+      "prod_00309",
+      "prod_00302"
+    ]
+  },
+  {
+    "id": "query_053",
+    "query": "dyson vacuum",
+    "query_type": "keyword",
+    "relevant_product_ids": [
+      "prod_00720",
+      "prod_00663",
+      "prod_00672",
+      "prod_00681",
+      "prod_00678",
+      "prod_00668",
+      "prod_00686"
+    ]
+  },
+  {
+    "id": "query_054",
+    "query": "yoga mat 6mm",
+    "query_type": "keyword",
+    "relevant_product_ids": [
+      "prod_00938",
+      "prod_00902",
+      "prod_00948",
+      "prod_00917",
+      "prod_00946",
+      "prod_00929",
+      "prod_00935"
+    ]
+  },
+  {
+    "id": "query_055",
+    "query": "chanel perfume",
+    "query_type": "keyword",
+    "relevant_product_ids": [
+      "prod_01398",
+      "prod_01390",
+      "prod_01385",
+      "prod_01422",
+      "prod_01427",
+      "prod_01404",
+      "prod_01383",
+      "prod_01381"
+    ]
+  },
+  {
+    "id": "query_056",
+    "query": "cotton bedding queen",
+    "query_type": "keyword",
+    "relevant_product_ids": [
+      "prod_00763",
+      "prod_00743",
+      "prod_00775",
+      "prod_00721",
+      "prod_00751",
+      "prod_00734",
+      "prod_00767",
+      "prod_00730",
+      "prod_00774",
+      "prod_00753"
+    ]
+  },
+  {
+    "id": "query_057",
+    "query": "apple tablet",
+    "query_type": "keyword",
+    "relevant_product_ids": [
+      "prod_00245",
+      "prod_00278",
+      "prod_00242",
+      "prod_00287",
+      "prod_00277"
+    ]
+  },
+  {
+    "id": "query_058",
+    "query": "levis jeans slim",
+    "query_type": "keyword",
+    "relevant_product_ids": [
+      "prod_00439",
+      "prod_00428",
+      "prod_00474",
+      "prod_00456",
+      "prod_00468",
+      "prod_00477",
+      "prod_00449",
+      "prod_00435",
+      "prod_00442",
+      "prod_00426",
+      "prod_00470",
+      "prod_00431",
+      "prod_00448",
+      "prod_00447"
+    ]
+  },
+  {
+    "id": "query_059",
+    "query": "sony earbuds",
+    "query_type": "keyword",
+    "relevant_product_ids": [
+      "prod_00172",
+      "prod_00148",
+      "prod_00160",
+      "prod_00126",
+      "prod_00145",
+      "prod_00132",
+      "prod_00146",
+      "prod_00149",
+      "prod_00123"
+    ]
+  },
+  {
+    "id": "query_060",
+    "query": "vitamix blender",
+    "query_type": "keyword",
+    "relevant_product_ids": [
+      "prod_00869",
+      "prod_00841",
+      "prod_00846",
+      "prod_00862",
+      "prod_00849",
+      "prod_00891"
+    ]
+  },
+  {
+    "id": "query_061",
+    "query": "lightweight laptop for travel and meetings",
+    "query_type": "multi_concept",
+    "relevant_product_ids": [
+      "prod_00083",
+      "prod_00119",
+      "prod_00104",
+      "prod_00088",
+      "prod_00073",
+      "prod_00093",
+      "prod_00065",
+      "prod_00079",
+      "prod_00061",
+      "prod_00103",
+      "prod_00082",
+      "prod_00085"
+    ]
+  },
+  {
+    "id": "query_062",
+    "query": "comfortable jeans for everyday casual wear",
+    "query_type": "multi_concept",
+    "relevant_product_ids": [
+      "prod_00451",
+      "prod_00443",
+      "prod_00437",
+      "prod_00429",
+      "prod_00472",
+      "prod_00480",
+      "prod_00470",
+      "prod_00441",
+      "prod_00468",
+      "prod_00454"
+    ]
+  },
+  {
+    "id": "query_063",
+    "query": "quiet air purifier for bedroom allergies",
+    "query_type": "multi_concept",
+    "relevant_product_ids": [
+      "prod_00820",
+      "prod_00783",
+      "prod_00811",
+      "prod_00831",
+      "prod_00804",
+      "prod_00838",
+      "prod_00797"
+    ]
+  },
+  {
+    "id": "query_064",
+    "query": "outdoor basketball for street games",
+    "query_type": "multi_concept",
+    "relevant_product_ids": [
+      "prod_01103",
+      "prod_01088",
+      "prod_01094",
+      "prod_01117",
+      "prod_01114"
+    ]
+  },
+  {
+    "id": "query_065",
+    "query": "gentle shampoo for color treated hair",
+    "query_type": "multi_concept",
+    "relevant_product_ids": [
+      "prod_01275",
+      "prod_01304",
+      "prod_01313",
+      "prod_01315",
+      "prod_01278",
+      "prod_01266",
+      "prod_01269",
+      "prod_01272",
+      "prod_01293",
+      "prod_01320",
+      "prod_01290",
+      "prod_01316",
+      "prod_01296",
+      "prod_01306"
+    ]
+  },
+  {
+    "id": "query_066",
+    "query": "folding treadmill for small apartment",
+    "query_type": "multi_concept",
+    "relevant_product_ids": [
+      "prod_01066",
+      "prod_01074",
+      "prod_01050",
+      "prod_01036",
+      "prod_01041",
+      "prod_01059",
+      "prod_01039",
+      "prod_01027",
+      "prod_01057",
+      "prod_01029",
+      "prod_01033"
+    ]
+  },
+  {
+    "id": "query_067",
+    "query": "formal dress black elegant",
+    "query_type": "multi_concept",
+    "relevant_product_ids": [
+      "prod_00597",
+      "prod_00600",
+      "prod_00594",
+      "prod_00586",
+      "prod_00595",
+      "prod_00557",
+      "prod_00587",
+      "prod_00572",
+      "prod_00566",
+      "prod_00573",
+      "prod_00591",
+      "prod_00578",
+      "prod_00552",
+      "prod_00547"
+    ]
+  },
+  {
+    "id": "query_068",
+    "query": "sensitive skin facial moisturizer",
+    "query_type": "multi_concept",
+    "relevant_product_ids": [
+      "prod_01247",
+      "prod_01233",
+      "prod_01215",
+      "prod_01231",
+      "prod_01252",
+      "prod_01258",
+      "prod_01245",
+      "prod_01226",
+      "prod_01237",
+      "prod_01251",
+      "prod_01223",
+      "prod_01224",
+      "prod_01219",
+      "prod_01244",
+      "prod_01212"
+    ]
+  },
+  {
+    "id": "query_069",
+    "query": "robot vacuum pet hair",
+    "query_type": "multi_concept",
+    "relevant_product_ids": [
+      "prod_00689",
+      "prod_00706",
+      "prod_00714",
+      "prod_00668",
+      "prod_00720",
+      "prod_00661",
+      "prod_00694",
+      "prod_00671",
+      "prod_00701",
+      "prod_00680",
+      "prod_00717",
+      "prod_00670",
+      "prod_00712",
+      "prod_00709",
+      "prod_00703"
+    ]
+  },
+  {
+    "id": "query_070",
+    "query": "premium espresso machine home barista",
+    "query_type": "multi_concept",
+    "relevant_product_ids": [
+      "prod_00619",
+      "prod_00602",
+      "prod_00617",
+      "prod_00605",
+      "prod_00625",
+      "prod_00621",
+      "prod_00606",
+      "prod_00638",
+      "prod_00649",
+      "prod_00612",
+      "prod_00643",
+      "prod_00607",
+      "prod_00614",
+      "prod_00660",
+      "prod_00637"
+    ]
+  },
+  {
+    "id": "query_071",
+    "query": "Under Armour basketball hoop ball",
+    "query_type": "generated",
+    "relevant_product_ids": [
+      "prod_01106",
+      "prod_01124",
+      "prod_01097",
+      "prod_01090",
+      "prod_01098",
+      "prod_01099"
+    ]
+  },
+  {
+    "id": "query_072",
+    "query": "best bed linens",
+    "query_type": "generated",
+    "relevant_product_ids": [
+      "prod_00770",
+      "prod_00775",
+      "prod_00772",
+      "prod_00731",
+      "prod_00758",
+      "prod_00763",
+      "prod_00749",
+      "prod_00728",
+      "prod_00735",
+      "prod_00754",
+      "prod_00721",
+      "prod_00742",
+      "prod_00743"
+    ]
+  },
+  {
+    "id": "query_073",
+    "query": "duvet cover set white",
+    "query_type": "generated",
+    "relevant_product_ids": [
+      "prod_00728",
+      "prod_00773",
+      "prod_00772",
+      "prod_00746",
+      "prod_00768",
+      "prod_00738",
+      "prod_00729",
+      "prod_00750",
+      "prod_00744",
+      "prod_00777",
+      "prod_00755",
+      "prod_00751",
+      "prod_00754",
+      "prod_00756",
+      "prod_00741"
+    ]
+  },
+  {
+    "id": "query_074",
+    "query": "Amazon Basics bed linens",
+    "query_type": "generated",
+    "relevant_product_ids": [
+      "prod_00764",
+      "prod_00754",
+      "prod_00753",
+      "prod_00727",
+      "prod_00774",
+      "prod_00734",
+      "prod_00762",
+      "prod_00740",
+      "prod_00765"
+    ]
+  },
+  {
+    "id": "query_075",
+    "query": "best bluetooth earphones",
+    "query_type": "generated",
+    "relevant_product_ids": [
+      "prod_00138",
+      "prod_00121",
+      "prod_00168",
+      "prod_00144",
+      "prod_00148"
+    ]
+  },
+  {
+    "id": "query_076",
+    "query": "indoor basketball composite",
+    "query_type": "generated",
+    "relevant_product_ids": [
+      "prod_01112",
+      "prod_01135",
+      "prod_01131",
+      "prod_01116",
+      "prod_01083"
+    ]
+  },
+  {
+    "id": "query_077",
+    "query": "best touch screen device",
+    "query_type": "generated",
+    "relevant_product_ids": [
+      "prod_00267",
+      "prod_00256",
+      "prod_00251",
+      "prod_00277",
+      "prod_00275",
+      "prod_00253",
+      "prod_00249",
+      "prod_00264",
+      "prod_00295",
+      "prod_00260",
+      "prod_00283",
+      "prod_00242"
+    ]
+  },
+  {
+    "id": "query_078",
+    "query": "notebook black",
+    "query_type": "generated",
+    "relevant_product_ids": [
+      "prod_00100",
+      "prod_00081",
+      "prod_00113",
+      "prod_00109",
+      "prod_00102",
+      "prod_00069",
+      "prod_00066",
+      "prod_00078"
+    ]
+  },
+  {
+    "id": "query_079",
+    "query": "best running machine",
+    "query_type": "generated",
+    "relevant_product_ids": [
+      "prod_01078",
+      "prod_01056",
+      "prod_01050",
+      "prod_01073",
+      "prod_01021",
+      "prod_01069",
+      "prod_01043",
+      "prod_01057",
+      "prod_01055",
+      "prod_01048",
+      "prod_01079",
+      "prod_01040"
+    ]
+  },
+  {
+    "id": "query_080",
+    "query": "best lip tint",
+    "query_type": "generated",
+    "relevant_product_ids": [
+      "prod_01332",
+      "prod_01359",
+      "prod_01327",
+      "prod_01328",
+      "prod_01375",
+      "prod_01352",
+      "prod_01371",
+      "prod_01378",
+      "prod_01342",
+      "prod_01354",
+      "prod_01324"
+    ]
+  },
+  {
+    "id": "query_081",
+    "query": "Dior eau de parfum",
+    "query_type": "generated",
+    "relevant_product_ids": [
+      "prod_01437",
+      "prod_01391",
+      "prod_01434",
+      "prod_01435",
+      "prod_01428",
+      "prod_01381",
+      "prod_01395",
+      "prod_01432",
+      "prod_01382",
+      "prod_01431",
+      "prod_01422",
+      "prod_01439",
+      "prod_01407"
+    ]
+  },
+  {
+    "id": "query_082",
+    "query": "La Roche-Posay sun block",
+    "query_type": "generated",
+    "relevant_product_ids": [
+      "prod_01488",
+      "prod_01500",
+      "prod_01448",
+      "prod_01484",
+      "prod_01451",
+      "prod_01499",
+      "prod_01464",
+      "prod_01486",
+      "prod_01463",
+      "prod_01473"
+    ]
+  },
+  {
+    "id": "query_083",
+    "query": "best wireless in-ear headphones",
+    "query_type": "generated",
+    "relevant_product_ids": [
+      "prod_00134",
+      "prod_00141",
+      "prod_00145",
+      "prod_00173",
+      "prod_00142"
+    ]
+  },
+  {
+    "id": "query_084",
+    "query": "fitness tracker watch rose gold",
+    "query_type": "generated",
+    "relevant_product_ids": [
+      "prod_00202",
+      "prod_00222",
+      "prod_00235",
+      "prod_00227",
+      "prod_00233",
+      "prod_00201",
+      "prod_00181",
+      "prod_00182",
+      "prod_00213",
+      "prod_00231",
+      "prod_00229",
+      "prod_00219",
+      "prod_00185",
+      "prod_00204"
+    ]
+  },
+  {
+    "id": "query_085",
+    "query": "best denim pants",
+    "query_type": "generated",
+    "relevant_product_ids": [
+      "prod_00449",
+      "prod_00442",
+      "prod_00440",
+      "prod_00437",
+      "prod_00472",
+      "prod_00439",
+      "prod_00444"
+    ]
+  },
+  {
+    "id": "query_086",
+    "query": "best free weights",
+    "query_type": "generated",
+    "relevant_product_ids": [
+      "prod_00979",
+      "prod_01001",
+      "prod_00974",
+      "prod_00994",
+      "prod_01002",
+      "prod_01016",
+      "prod_00966",
+      "prod_00976",
+      "prod_00992",
+      "prod_01000",
+      "prod_01019",
+      "prod_00968",
+      "prod_00988",
+      "prod_00999"
+    ]
+  },
+  {
+    "id": "query_087",
+    "query": "body mist 3.4 oz",
+    "query_type": "generated",
+    "relevant_product_ids": [
+      "prod_01388",
+      "prod_01440",
+      "prod_01413",
+      "prod_01420",
+      "prod_01409",
+      "prod_01426",
+      "prod_01382",
+      "prod_01429",
+      "prod_01427",
+      "prod_01435",
+      "prod_01431"
+    ]
+  },
+  {
+    "id": "query_088",
+    "query": "strength training weights chrome",
+    "query_type": "generated",
+    "relevant_product_ids": [
+      "prod_00996",
+      "prod_00972",
+      "prod_01000",
+      "prod_00993",
+      "prod_00985",
+      "prod_01001",
+      "prod_00986",
+      "prod_00990",
+      "prod_01014",
+      "prod_01016",
+      "prod_01008"
+    ]
+  },
+  {
+    "id": "query_089",
+    "query": "best lip stain",
+    "query_type": "generated",
+    "relevant_product_ids": [
+      "prod_01368",
+      "prod_01366",
+      "prod_01332",
+      "prod_01333",
+      "prod_01380",
+      "prod_01345",
+      "prod_01348",
+      "prod_01373",
+      "prod_01342",
+      "prod_01331",
+      "prod_01350",
+      "prod_01339"
+    ]
+  },
+  {
+    "id": "query_090",
+    "query": "best cordless earbuds",
+    "query_type": "generated",
+    "relevant_product_ids": [
+      "prod_00168",
+      "prod_00156",
+      "prod_00178",
+      "prod_00136",
+      "prod_00169",
+      "prod_00130",
+      "prod_00179",
+      "prod_00126",
+      "prod_00143",
+      "prod_00149",
+      "prod_00144",
+      "prod_00122",
+      "prod_00134"
+    ]
+  },
+  {
+    "id": "query_091",
+    "query": "Champion basic tee",
+    "query_type": "generated",
+    "relevant_product_ids": [
+      "prod_00519",
+      "prod_00531",
+      "prod_00491",
+      "prod_00530",
+      "prod_00507",
+      "prod_00539",
+      "prod_00516",
+      "prod_00517",
+      "prod_00515",
+      "prod_00499",
+      "prod_00493"
+    ]
+  },
+  {
+    "id": "query_092",
+    "query": "best mixing machine",
+    "query_type": "generated",
+    "relevant_product_ids": [
+      "prod_00847",
+      "prod_00887",
+      "prod_00873",
+      "prod_00892",
+      "prod_00875",
+      "prod_00870",
+      "prod_00862",
+      "prod_00890",
+      "prod_00894",
+      "prod_00856",
+      "prod_00842",
+      "prod_00857"
+    ]
+  },
+  {
+    "id": "query_093",
+    "query": "weight set neoprene coated",
+    "query_type": "generated",
+    "relevant_product_ids": [
+      "prod_00991",
+      "prod_01001",
+      "prod_00966",
+      "prod_00968",
+      "prod_01002",
+      "prod_00961",
+      "prod_00987",
+      "prod_01012",
+      "prod_01010",
+      "prod_00985",
+      "prod_01005"
+    ]
+  },
+  {
+    "id": "query_094",
+    "query": "fragrance woody",
+    "query_type": "generated",
+    "relevant_product_ids": [
+      "prod_01428",
+      "prod_01388",
+      "prod_01386",
+      "prod_01383",
+      "prod_01430",
+      "prod_01419",
+      "prod_01418",
+      "prod_01402",
+      "prod_01438",
+      "prod_01397",
+      "prod_01436",
+      "prod_01440",
+      "prod_01415",
+      "prod_01412"
+    ]
+  },
+  {
+    "id": "query_095",
+    "query": "Uniqlo crew neck top",
+    "query_type": "generated",
+    "relevant_product_ids": [
+      "prod_00496",
+      "prod_00511",
+      "prod_00495",
+      "prod_00530",
+      "prod_00537",
+      "prod_00506",
+      "prod_00504"
+    ]
+  },
+  {
+    "id": "query_096",
+    "query": "ASUS computing device",
+    "query_type": "generated",
+    "relevant_product_ids": [
+      "prod_00067",
+      "prod_00107",
+      "prod_00115",
+      "prod_00098",
+      "prod_00092",
+      "prod_00069",
+      "prod_00100",
+      "prod_00064",
+      "prod_00086",
+      "prod_00065",
+      "prod_00114",
+      "prod_00112",
+      "prod_00070",
+      "prod_00096",
+      "prod_00072"
+    ]
+  },
+  {
+    "id": "query_097",
+    "query": "best handset",
+    "query_type": "generated",
+    "relevant_product_ids": [
+      "prod_00051",
+      "prod_00034",
+      "prod_00047",
+      "prod_00040",
+      "prod_00007",
+      "prod_00052",
+      "prod_00013",
+      "prod_00020",
+      "prod_00060",
+      "prod_00042",
+      "prod_00028"
+    ]
+  },
+  {
+    "id": "query_098",
+    "query": "daily moisturizing cream combination",
+    "query_type": "generated",
+    "relevant_product_ids": [
+      "prod_01244",
+      "prod_01202",
+      "prod_01255",
+      "prod_01245",
+      "prod_01209",
+      "prod_01218",
+      "prod_01224",
+      "prod_01210",
+      "prod_01254",
+      "prod_01221",
+      "prod_01256"
+    ]
+  },
+  {
+    "id": "query_099",
+    "query": "Spalding indoor basketball",
+    "query_type": "generated",
+    "relevant_product_ids": [
+      "prod_01090",
+      "prod_01101",
+      "prod_01114",
+      "prod_01120",
+      "prod_01128",
+      "prod_01123",
+      "prod_01133",
+      "prod_01126",
+      "prod_01118"
+    ]
+  },
+  {
+    "id": "query_100",
+    "query": "best jogging machine",
+    "query_type": "generated",
+    "relevant_product_ids": [
+      "prod_01043",
+      "prod_01039",
+      "prod_01055",
+      "prod_01032",
+      "prod_01058",
+      "prod_01026",
+      "prod_01070",
+      "prod_01076"
+    ]
+  }
+]
